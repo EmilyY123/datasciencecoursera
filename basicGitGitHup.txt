@@ -1,0 +1,6 @@
+## this is basic command for git github learned from coursera/theDataScientistToolBox
+
+1) connect local computer to github
+  git init
+  git remote add origin http://github.com/EmilyY123/Coursera.git 
+  git add .  ## add all new files into 

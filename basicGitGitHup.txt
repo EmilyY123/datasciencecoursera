@@ -4,3 +4,8 @@
   git init
   git remote add origin http://github.com/EmilyY123/Coursera.git 
   git add .  ## add all new files into 
+  git add -u  ## updates tracking for files
+  git add -A ## both 
+
+2) commit 
+  -git commit -m "message"
